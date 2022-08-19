@@ -20,8 +20,6 @@ import {
   FaTwitch,
   FaTwitter,
 } from 'react-icons/fa';
-// import { useState } from "react/cjs/react.production.min";
-// import Lo
 
 const LINKS = [
   { text: 'about', path: '/about' },
